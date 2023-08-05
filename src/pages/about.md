@@ -3,34 +3,24 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Hi, There!
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+[![An image of @kyuubang's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kyuubang)](https://holopin.io/@kyuubang)
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+I'm Bayhaqi, an F/LOOS enthusiast, programmer, and Cloud and DevOps survivor. My primary weapons
+are OpenSUSE and Python. Adventuring in the Linux world for over 3 years as a System
+Administrator, daily use.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+> don't do repetitive tasks, just automate them.-
 
-## Tech Stack
+### Programming Language and Scripting
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+[python](https://python.org) [golang](https://github.com/Kyuubang?tab=repositories&q=&type=&language=go) [bash](https://www.gnu.org/software/bash/)
 
-## Features
+### DevOps
 
-Here are certain features of this site.
+[docker](https://www.docker.com/) [actions](https://github.com/features/actions) [kubernetes](https://kubernetes.io/) [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/) [gitlab](https://about.gitlab.com/) [bitbucket](https://bitbucket.org)
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+### Cloud
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+[azure](azure.com) [openstack](https://www.openstack.org/)
