@@ -39,5 +39,5 @@ export default defineConfig({
       exclude: ["@resvg/resvg-js"],
     },
   },
-  trailingSlash: 'never',
+  trailingSlash: 'ignore',
 });
