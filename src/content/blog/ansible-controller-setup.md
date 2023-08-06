@@ -1,7 +1,7 @@
 ---
 author: Ahmad Bayhaqi
 pubDatetime: 2022-03-27
-title: "ansible: How to setup controller node ansible"
+title: "How to setup controller node ansible"
 postSlug: setup-ansible-controller
 featured: false
 draft: false

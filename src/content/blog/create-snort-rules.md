@@ -1,7 +1,7 @@
 ---
 author: Ahmad Bayhaqi
 pubDatetime: 2021-09-08
-title: "snort: Create Snort rules"
+title: "Create Snort rules"
 postSlug: create-snort-rules
 featured: false
 draft: false

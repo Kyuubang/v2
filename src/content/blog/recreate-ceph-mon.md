@@ -1,7 +1,7 @@
 ---
 author: Ahmad Bayhaqi
 pubDatetime: 2022-10-03
-title: "ceph: How to recreate MONs out of quorum on Ceph"
+title: "How to recreate MONs out of quorum on Ceph"
 postSlug: recreate-ceph-mon
 featured: false
 draft: false

@@ -1,7 +1,7 @@
 ---
 author: Ahmad Bayhaqi
 pubDatetime: 2022-03-11
-title: "actions: simple non-containerize application with GitHub actions"
+title: "simple non-containerize application with GitHub actions"
 postSlug: non-containerize-cicd
 featured: false
 draft: false

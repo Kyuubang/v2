@@ -1,7 +1,7 @@
 ---
 author: Ahmad Bayhaqi
 pubDatetime: 2022-01-22
-title: "actions: How to setup simple nightly build with Github Actions"
+title: "How to setup simple nightly build with Github Actions"
 postSlug: nightly-build-github-actions
 featured: false
 draft: false

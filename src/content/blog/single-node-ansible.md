@@ -1,7 +1,7 @@
 ---
 author: Ahmad Bayhaqi
 pubDatetime: 2022-06-10
-title: "LS: Lab Setup Ansible single node with virtualenv on Ubuntu 18.04"
+title: "Lab Setup Ansible single node with virtualenv on Ubuntu 18.04"
 postSlug: single-node-ansible-ubuntu-18-04
 featured: false
 draft: false

@@ -1,7 +1,7 @@
 ---
 author: Ahmad Bayhaqi
 pubDatetime: 2023-04-03
-title: "azure: How to Configure SSL Using Cert-Manager with (AGIC) Application Gateway Ingress Controller"
+title: "How to Configure SSL Using Cert-Manager with (AGIC) Application Gateway Ingress Controller"
 postSlug: cert-manager-with-agic
 featured: false
 draft: false
